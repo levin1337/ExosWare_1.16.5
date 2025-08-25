@@ -1,0 +1,20 @@
+// NOCOMMANDS если баг с чатом
+
+
+  // SPRINT если баг с движком
+  // JUMPCIRCLE Евент активация прыжков
+  // RENDER если будет баг с рендером
+  // MODED если детектит софт
+  // BABYBOY мал даудал
+  // БАГ С МОДУЛЯМИ СЕТИНГ клики в клик гуи
+  //ReallyWorld Фикс здоровья на рв
+  //LOGER логгер
+
+
+  //BosBar Босс бар проверка
+
+  //STATIC если баг со флай
+  //FilterManager лаги / SocialInteractionsScreen.java
+  //AUTOSPRINT
+  //muxa cc Говно анти таргет давидуса
+  // VIA версии

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="viaversion-4.8.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/Viasnakeyaml-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ViaVersion-4.9.0-1.20.3-rc1-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ViaBackwards-4.9.0-23w40a-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
