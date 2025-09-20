@@ -108,7 +108,7 @@ public class SpeedFunction extends Function {
         // Проверяем, надета ли уже элитра
         ItemStack chestItem = mc.player.getItemStackFromSlot(EquipmentSlotType.CHEST);
         boolean hasElytraEquipped = chestItem.getItem() == Items.ELYTRA;
-
+        mc.player.startFallFlying();
         if (hasElytraEquipped) {
             // Если элитра уже надета - просто активируем полет
             if (!mc.player.isElytraFlying()) {
