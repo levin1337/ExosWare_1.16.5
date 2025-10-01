@@ -19,10 +19,10 @@ bobView:false
 toggleCrouch:false
 toggleSprint:false
 mouseSensitivity:0.5
-fov:0.3
+fov:1.0
 screenEffectScale:1.0
 fovEffectScale:1.0
-gamma:1.0
+gamma:1000000.0
 renderDistance:8
 entityDistanceScaling:1.0
 guiScale:2
@@ -35,7 +35,7 @@ biomeBlendRadius:2
 renderClouds:true
 resourcePacks:["vanilla"]
 incompatibleResourcePacks:[]
-lastServer:pulsehvh.space
+lastServer:mc.lonygrief.ru
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0

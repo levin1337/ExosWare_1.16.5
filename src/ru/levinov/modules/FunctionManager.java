@@ -60,6 +60,7 @@ public class FunctionManager {
     public final NoCommands noCommands;
     public final UnHookFunction unhook;
     public final ChinaHat chinaHat;
+    public final LegitAura legitAura;
 
 
     public final ExtendedTab extendedTab;
@@ -95,6 +96,7 @@ public class FunctionManager {
                 tpAura = new TPAura(),
                 autoPilot = new AutoPilot(),
                 noRenderFunction = new NoRenderFunction(),
+                legitAura = new LegitAura(),
                 swingAnimationFunction = new SwingAnimationFunction(),
                 item360 = new Item360(),
                 aspectRatio = new AspectRatio(),
